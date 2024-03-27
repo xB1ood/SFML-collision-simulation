@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.8.34525.116
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "sfml666", "sfml666\sfml666.vcxproj", "{96FEBEB4-88DF-47AA-A91A-C6D05258CB0D}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "simulation", "source\sfml666.vcxproj", "{96FEBEB4-88DF-47AA-A91A-C6D05258CB0D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
